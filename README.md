@@ -44,5 +44,17 @@ The doubly linked list is a data structure that consists of a sequence of elemen
 - Free List (to remove all elemnts )
 - Search at node (Search at specific data)
 
+# Usage
+To compile and run the project, follow these steps:
+
+    1-Install a C compiler (e.g., GCC) on your system if you haven't already(Notepad++,CodeBlocks,eclipse,...).
+    2-Download the source code file.
+    3-Open a terminal or command prompt and navigate to the project directory.
+    4-Compile the source code using the command:  
+       - gcc main.c List.c    /* For Doubly linked list */
+       - gcc main.c queue.c   /* For Queue */
+       -gcc main.c Stack.c    /* For Stack */
+    5-Run the compiled executable.
+    
 # Contributing  
 Contributions to this repository are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
