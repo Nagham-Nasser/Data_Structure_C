@@ -32,3 +32,17 @@ The array-based queue implementation uses a fixed-size array to store the elemen
 
 #### Linked List-based Queue  
 The linked list-based queue implementation uses a dynamically allocated linked list to store the elements. It maintains front and rear pointers that point to the head and tail of the linked list, respectively.
+
+## Doubly Linked List
+The doubly linked list is a data structure that consists of a sequence of elements, where each element contains references to the previous and next elements. It supports various operations such as insertion, deletion, and traversal. It supports many operations: 
+
+- Intialize doubly linked list (Create an empty doubly linked list)
+- Insert node (an element at any position)
+- Delete node (an elementat any position)
+- Print the list (to print all elements )
+- List Size (to determine the number of elements)
+- Free List (to remove all elemnts )
+- Search at node (Search at specific data)
+
+# Contributing  
+Contributions to this repository are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
